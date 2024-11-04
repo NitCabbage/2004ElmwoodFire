@@ -1,5 +1,3 @@
-# 2004ElmwoodFire
-Project Proposal
 <!DOCTYPE html>
 <html lang="en">
 <head>
